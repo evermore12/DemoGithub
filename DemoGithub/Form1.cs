@@ -21,6 +21,9 @@ namespace DemoGithub
         {
             int i = 10;
             i = 12;
+            //Detta är ändrningar som en annan utvecklare gör och pushar upp
+            
+            int newValue = 12345;
         }
     }
 }
